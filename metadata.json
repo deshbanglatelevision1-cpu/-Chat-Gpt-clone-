@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ChatGPT Clone",
+  "description": "A fully functional AI chat application with a minimalist dark interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
